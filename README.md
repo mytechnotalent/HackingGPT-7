@@ -1830,10 +1830,10 @@ for iter in range(max_iters):
     
     # get batch of training data
     # randomly samples batch_size sequences of length block_size
-    x_batch, y_batch = get_batch('train')
+    xb, yb = get_batch('train')
     
     # forward pass: compute predictions and loss
-    logits, loss = model(x_batch, y_batch)
+    logits, loss = model(xb, yb)
     
     # backward pass: compute gradients
     # set_to_none=True is more efficient than zero_grad()
