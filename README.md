@@ -1,3 +1,9 @@
+![image](https://github.com/mytechnotalent/HackingGPT-7/blob/main/HackingGPT.png?raw=true)
+
+## FREE Reverse Engineering Self-Study Course [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Tutorial)
+
+<br>
+
 # HackingGPT
 ## Part 7: Building a Complete GPT from Scratch
 
@@ -15,6 +21,11 @@ By the end, you'll have a working character-level language model trained on Sher
 
 #### Author: [Kevin Thomas](mailto:ket189@pitt.edu)
 
+<br>
+
+## Part 6 [HERE](https://github.com/mytechnotalent/HackingGPT-6)
+
+<br><br>
 
 ```python
 import torch
